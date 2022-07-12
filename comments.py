@@ -1,6 +1,7 @@
-print ("Hi! Friends, let's do some calculation")
-print (30 + 40)
-print (56 - 29)
+print ("Hello World!") #this is single line comments
+
+
+#Here is multi line comments
 '''
 print ("Enjoying our blogs?")
 print ("Let's comment out")
